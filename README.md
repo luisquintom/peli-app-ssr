@@ -4,11 +4,11 @@ Segunda parte de la Práctica 2 de React. En esta versión, se ha migrado la apl
 
 ## Funcionalidades
 
-**Renderizado en Servidor (SSR)**: Las páginas se generan en el servidor, mejorando la velocidad percibida y el rendimiento. 
-**Página de Inicio (`/`)**: Muestra las películas populares obtenidas directamente en el servidor.
-**Buscador (`/search`)**: Implementado mediante parámetros de búsqueda en la URL y Server Components para los resultados. 
-**Detalle de Película (`/movie/[id]`)**: Uso de rutas dinámicas para visualizar información detallada de cada filme. 
-**Navegación**: Sistema de enrutamiento basado en el directorio `app/`. 
+- **Renderizado en Servidor (SSR)**: Las páginas se generan en el servidor, mejorando la velocidad percibida y el rendimiento. 
+- **Página de Inicio (`/`)**: Muestra las películas populares obtenidas directamente en el servidor.
+- **Buscador (`/search`)**: Implementado mediante parámetros de búsqueda en la URL y Server Components para los resultados. 
+- **Detalle de Película (`/movie/[id]`)**: Uso de rutas dinámicas para visualizar información detallada de cada filme. 
+- **Navegación**: Sistema de enrutamiento basado en el directorio `app/`. 
 
 ## Tecnologías Utilizadas
 
